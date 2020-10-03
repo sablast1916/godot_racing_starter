@@ -46,7 +46,6 @@ __meta__ = {
 "_edit_group_": true
 }
 STEERING = 200.0
-ACCELERATION = 50.0
 
 [node name="Sprite" type="Sprite" parent="player"]
 position = Vector2( 5.96046e-08, 6.10352e-05 )
